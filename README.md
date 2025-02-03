@@ -10,6 +10,14 @@ The objective of this project is to explore and analyze HR data to uncover valua
 3. **Exploratory Data Analysis (EDA)**: Gaining insights using Python and visualizations.
 4. **Interactive Dashboard**: Building a Power BI dashboard connected to MySQL for detailed insights.
 
+###
+
+<div align="center">
+  <img src="https://github.com/RafiQamar/HR-Analytics-Project/blob/main/HR%20Analytics%20Dashboard.gif?raw=true" height="300" alt="IMDB Dashboard gif" />
+</div>
+
+###
+
 ---
 
 ## Problem Statements
